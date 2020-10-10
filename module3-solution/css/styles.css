@@ -32,16 +32,6 @@ button.navbar-toggle .icon-bar{
 	}
 	
 }
-@media(max-width: 768px)
-{
-	.navbar-brand h1{
-		font-size: 7vw;
-	}
-	.navbar-default .navbar-toggle{
-	margin-top: 15px;
-
-}
-}
 .navbar-collapse{
 	padding: 0;
 }
